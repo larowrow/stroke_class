@@ -57,7 +57,7 @@ for i in range(len(mild_data_lines)):
         diff_data.append(diff_values)
 
 # 使用颜色映射绘制每行的差异：横轴是行号，纵轴是 'mild' - 'severe' 的差异
-color_map = cm.plasma(np.linspace(0, 1, 5))  # 使用viridis色标为5个点分配颜色
+color_map = cm.plasma(np.linspace(0, 1, 5))  # 使用plasma色标为5个点分配颜色
 
 # 定义频段对应名称
 frequency_bands = ['Alpha', 'Beta', 'Delta', 'Gamma', 'Theta']
