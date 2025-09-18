@@ -1,0 +1,13 @@
+Feature,Importance
+mav,0.029964134
+std,0.055468492
+betweenness,0.06223889
+psd,0.11908332
+PersistenceEntropy_0,0.027100546
+PersistenceEntropy_1,0.0011477964
+landscape1_0,0.0059689325
+landscape1_1,0.0059638354
+landscape2_0,0.008527114
+landscape2_1,0.0044317576
+betti_0,0.041091673
+betti_1,0.0092408415

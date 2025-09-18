@@ -1,0 +1,51 @@
+Participant_ID	Gender	Age	Duration	ParalysisSide	Handedness	IsFirstTime	StrokeLocation	NIHSS	MBI	mRS
+sub-01	male	45	1	right	right	yes	Left pons	11	50	4
+sub-02	male	60	2	left	right	yes	Right pons	3	55	4
+sub-03	male	60	2	left	right	no	"Left cerebellum, bilateral paraventricular, Right corona radiata"	3	90	1
+sub-04	male	56	14	right	right	yes	"Left frontal parietal cortex, Left centrum semiovale"	6	90	3
+sub-05	female	44	4	left	right	yes	Left pons	4	60	4
+sub-06	male	66	6	left	left	no	Right pons	3	85	3
+sub-07	male	62	5	right	right	no	Left pons	2	100	1
+sub-08	male	64	5	left	right	yes	Right basal ganglia	3	85	2
+sub-09	male	57	3	right	right	yes	Left paraventricular	6	55	1
+sub-10	male	55	2	left	right	no	Right pons	3	55	0
+sub-11	male	31	7	left	right	yes	Right paraventricular	5	55	4
+sub-12	male	58	1	right	right	yes	Left medulla oblongata	1	100	1
+sub-13	male	46	3	right	right	no	Left paraventricular	9	55	4
+sub-14	female	67	2	right	right	yes	Left pons	2	75	1
+sub-15	male	63	1	left	left	yes	"Right fronto-parietal temporo-occipital lobe, Right inner watershed"	7	55	1
+sub-16	male	57	1	right	right	no	Left basal ganglia	4	90	2
+sub-17	male	60	3	left	right	yes	"Right paraventricular, Right basal ganglia"	3	85	1
+sub-18	female	60	1	left	right	yes	Right basal ganglia	10	45	4
+sub-19	female	62	1	left	right	no	"Right paraventricular, Right basal ganglia"	8	40	4
+sub-20	male	34	24	right	right	no	"Left paraventricular, Right temporal lobe"	2	95	1
+sub-21	male	41	5	left	right	yes	Pons	2	90	1
+sub-22	male	52	6	left	right	yes	"Right temporo-parietal occipital lobe and insula, Right basal ganglia, Right paraventricular"	11	45	4
+sub-23	male	57	2	left	right	yes	"Right paraventricular, Right basal ganglia"	4	40	4
+sub-24	female	55	3	right	right	yes	Left paraventricular	1	60	4
+sub-25	male	47	10	left	right	yes	Right paraventricular	5	55	4
+sub-26	male	61	1	left	right	yes	Right thalamus	4	70	4
+sub-27	female	52	5	right	right	yes	"Left basal ganglia, Left paraventricular"	3	70	3
+sub-28	female	42	2	right	right	yes	Left thalamus	1	85	1
+sub-29	male	53	16	right	right	yes	Left thalamus	1	95	0
+sub-30	male	68	4	left	right	yes	Right paraventricular	4	100	1
+sub-31	female	59	5	right	right	no	"Left corona radiata, Left centrum semiovale"	3	80	3
+sub-32	male	74	2	right	right	yes	Left pons	3	81	4
+sub-33	male	63	7	right	right	yes	Pons	3	58	4
+sub-34	female	69	1	left	right	no	Right frontal lobe	1	85	2
+sub-35	male	69	11	left	right	no	"Right cerebellum,bilateral occipital lobes"	1	52	4
+sub-36	male	69	30	left	right	yes	"Right paraventricular,right basal ganglia"	6	63	3
+sub-37	male	49	7	left	right	yes	Right internal capsule	3	88	4
+sub-38	male	53	2	right	right	yes	Right pons	3	64	3
+sub-39	male	56	2	right	right	yes	"Left cerebellar hemisphere, Left medulla oblongata"	11	32	5
+sub-40	female	56	6	left	right	no	Right pons	6	65	4
+sub-41	male	77	2	right	right	no	Left pons	7	60	4
+sub-42	male	54	2	right	right	no	Left pons	7	60	4
+sub-43	male	32	3	left	right	yes	Right frontal lobe	2	65	4
+sub-44	male	59	1	left	right	yes	"Right subfrontal cortex, Right basal ganglia, Right lateral ventricle, Right corona radiata"	1	80	1
+sub-45	male	64	30	right	right	yes	Left pons	6	84	4
+sub-46	male	66	10	right	right	yes	Left parietal lobe	1	85	1
+sub-47	male	40	4	left	right	yes	Right medulla oblongata	7	55	4
+sub-48	male	75	18	left	right	yes	"Right subcortical cerebral hemisphere, Right basal ganglia, Left subparietal cortex"	2	90	1
+sub-49	male	52	3	left	right	yes	Right basal ganglia	1	85	1
+sub-50	female	64	1	left	right	yes	Right pons	3	85	2

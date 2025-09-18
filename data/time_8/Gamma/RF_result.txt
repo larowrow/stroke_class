@@ -1,0 +1,21 @@
+十折交叉验证平均性能:
+Average Accuracy: 0.9375
+Average F1-score: 0.9375
+Average Recall: 0.9375
+Average Precision: 0.9398
+
+测试集性能:
+Test Accuracy: 0.9444
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9868    0.9146    0.9494        82
+           1     0.8971    0.9839    0.9385        62
+
+    accuracy                         0.9444       144
+   macro avg     0.9420    0.9493    0.9439       144
+weighted avg     0.9482    0.9444    0.9447       144
+
+
+进程已结束,退出代码0
